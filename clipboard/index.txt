@@ -1,0 +1,19 @@
+{
+  "name": "Netflix Premium",
+  "price": 15.99,
+  "currency": "USD",
+  "frequency": "monthly",
+  "category": "entertainment",
+  "startDate": "2025-9-20",
+  "paymentMethod": "Credit Card"
+}
+{
+  "name": "JS Mastery Pro Elite Membership",
+  "price": 139.00,
+  "currency": "USD",
+  "frequency": "monthly",
+  "category": "entertainment",
+  "startDate": "2025-10-1",
+  "paymentMethod": "Credit Card"
+}
+
