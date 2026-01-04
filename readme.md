@@ -30,3 +30,7 @@ Using **_JWT_** for authentication, **_Express_** to setup server, **_Mongoose_*
 ### rating Limit
 
 ![screenshot of rating limit](ratingLimit.gif)
+
+### received mail
+
+![screenshot of received mail](receivedMail.jpg)
